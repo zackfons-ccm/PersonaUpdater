@@ -1,0 +1,17 @@
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.csproj.AssemblyReference.cache
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.csproj.CoreCompileInputs.cache
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\Persona Updater.exe.config
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\Persona Updater.exe
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\Persona Updater.pdb
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\EllieMae.Encompass.AsmResolver.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\EllieMae.Encompass.Runtime.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona .194828FD.Up2Date
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.exe
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.pdb
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\Client.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\ClientCommon.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\ClientServer.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\ClientSession.dll
+C:\z\dev\console apps\Persona Updater\Persona Updater\bin\Debug\ClientCommon.dll.config
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.csproj.SuggestedBindingRedirects.cache
+C:\z\dev\console apps\Persona Updater\Persona Updater\obj\Debug\Persona Updater.exe.config

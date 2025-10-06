@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona Updater", "Persona Updater\Persona Updater.csproj", "{AF7083DF-8381-4550-8430-A55E4BE7DACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7083DF-8381-4550-8430-A55E4BE7DACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7083DF-8381-4550-8430-A55E4BE7DACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7083DF-8381-4550-8430-A55E4BE7DACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7083DF-8381-4550-8430-A55E4BE7DACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF797E63-BA22-4CB7-A4ED-90D7BC3BA653}
+	EndGlobalSection
+EndGlobal
